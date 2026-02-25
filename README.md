@@ -1,9 +1,5 @@
 # 📊 Tracking App Admin
 
-<p align="center">
-  <img src="web/icons/Icon-512.png" alt="Tracking App Admin Logo" width="150" height="150">
-</p>
-
 ## 🚀 1. Project Overview
 
 **Tracking App Admin** is a comprehensive, enterprise-grade Flutter application built for administrators and managers. It provides a centralized dashboard to track staff attendance, manage shifts, handle leave requests, and oversee organizational branches and departments. Built with scalability and maintainability in mind, this project strictly adheres to **Clean Architecture** principles and the **MVI (Model-View-Intent)** presentation pattern.
